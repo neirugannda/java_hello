@@ -1,6 +1,6 @@
 
 public class Av {
-
+	
 	public static void main(String[] args) {
 		
 		int kor=94;
